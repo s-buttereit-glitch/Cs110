@@ -1,4 +1,5 @@
 <html>
+<head>
 <style>
         .heading{
             text-align: center;
@@ -16,6 +17,7 @@
             color: #3a92e4ff;
         }
     </style>
+</head>
 <body>
 <h1 class="heading">Spencer Buttereit and Andrew Conklin's Computer Science 100 Final Project</h1>
 <h2 class="sub-heading">This is a simple website made to tell the user about our interests and hobbies, list social media accounts, and to share some silly memes we enjoy.</h2>
