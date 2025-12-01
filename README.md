@@ -84,10 +84,10 @@
 
 <h1 class="heading"> Table of Contents</h1>
 <p class="list-format" href="#socials"> Socials </p>
-<p class="list-format" href=""> Interests </p>
-<p class="list-format" href=""> Hobbies </p>
-<p class="list-format" href=""> Funny memes</p>
-<p class="list-format" href=""> Recent gaming activity </p>
+<p class="list-format" href="#interests"> Interests </p>
+<p class="list-format" href="#hobbies"> Hobbies </p>
+<p class="list-format" href="#memes"> Funny Memes </p>
+<p class="list-format" href="activity"> Recent Activities</p>
 <hr>
 
 <h1 class="heading" id="socials"> Socials </h1>
@@ -129,15 +129,102 @@
     </div>
 </body>
 
-<body> 
-    <h1> interests </h1>
+<h1 class="heading" id="interests"> Interests </h1>
+
+<body>
     <div class="side-by-side">
-    <div class="profile">
-       <h2 class="sub-heading">Spencer:</h2>
-        <ul> <li> Video games
-        <li> art
-        <li>     
-        
+        <div class="profile">
+            <h2 class="sub-heading">Spencer:</h2>
+            <ul class="sublist-formatL">
+           <li> Video games </li>
+           <li> Magic the gathering</li>
+           <li> Super Smash Brothers Ultimate Esports</li>
+           <li> Tennis</li>
+           <li> A.I.</li> 
+            </ul>
+        </div>
+
+<div class="profile">
+        <h2 class="sub-heading">Andrew:</h2>
+        <ul class="sublist-formatL">
+        <li> Music </li>
+        <ul> 
+            <li>J-pop</li>
+            <li>Pop Rock</li>
+            <li>90's Rock</li>
+        </ul>
+        <li> Videogames </li>
+        <ul>
+            <li>Sandbox</li>
+            <li>Friend Slop</li>
+            <li>Team shooters</li>
+        </ul>
+        <li>Ultimate Frisbee</li>
+        <li>Trading Card Games</li>
+        <li>Photography</li>
+        </ul>
+        </div>
+    </div>
+</body>
+
+<h1 class="heading" id="hobbies"> Hobbies</h1>
+
+<body>
+    <div class="side-by-side">
+        <div class="profile">
+            <h2 class="sub-heading">Spencer:</h2>
+            <ul class="sublist-formatL">
+            <li> coding </li>
+            <li>Playing (nearly) All videogames</li>
+            <li>Playing tennis</li>
+            <li>Coding</li>
+            <li>Voice Acting</li>
+            </ul>
+        </div>
+
+<div class="profile">
+        <h2 class="sub-heading">Andrew:</h2>
+        <ul class="sublist-formatL">
+            <li>Gym/Exercise</li>
+            <li>Magic: The Gathering</li>
+            <li>Pokemon TCG Collecting</li>
+            <li>Minecraft Building</li>
+            <li>Journaling</li>
+        </ul>
+        </div>
+    </div>
+</body>
+
+<h1 class="heading" id="hobbies"> Funny Memes</h1>
+
+<body>
+    <div class="side-by-side">
+        <div class="profile">
+            <h2 class="sub-heading">Spencer:</h2>
+            <ul class="sublist-formatL">
+            <li> coding </li>
+            <li>Playing (nearly) All videogames</li>
+            <li>Playing tennis</li>
+            <li>Coding</li>
+            <li>Voice Acting</li>
+            </ul>
+        </div>
+
+<div class="profile">
+        <h2 class="sub-heading">Andrew:</h2>
+        <ul class="sublist-formatL">
+            <li>Gym/Exercise</li>
+            <li>Magic: The Gathering</li>
+            <li>Pokemon TCG Collecting</li>
+            <li>Minecraft Building</li>
+            <li>Journaling</li>
+        </ul>
+        </div>
+    </div>
+</body>
+
+<body>
+    
 </body>
 
 </html>
