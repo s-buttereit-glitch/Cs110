@@ -1,7 +1,209 @@
 <html>
+<head>
+    <title> Spencer & Andrew </title> 
+    <style>
+        .center-img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 300px;
+            }
+    </style>
+    <style>
+        .vertical-line {
+            transform: rotate(90deg);
+            width: 275px
+            }
+    </style> 
+    <style>
+        .list-format{
+           size: 40px;
+           text-align: center;
+           color: #eb9249ff; 
+        }
+    </style>
+    <style>
+        .sublist-formatL{
+            size: 35px;
+            text-align: left;
+            color: #3a92c5ff; 
+        }
+    </style>
+    <style>
+        .sublist-formatR{
+            size: 35px;
+            text-align: right;
+            color: #3a92c5ff; 
+        }
+    </style>
+    <style>
+        .heading{
+            text-align: center;
+            padding: 20px;
+            size: 60px;
+            color: #d282ebff;
+        }
+    </style>
+    <style>
+        .sub-heading{
+            padding: 20px, 20px;
+            margin-left: 10px;
+            margin-right: 10px;
+            size: 50px;
+            color: #e74242ff;
+        }
+    </style>
+    <style>
+        .plain-text{
+            color: #e6e6e6ff;
+        }
+    </style>
+    <style>
+        .title{
+            text-align: center;
+            size: 90px;
+            color: #e6e6e6ff;
+        }
+    </style>
+    <style>
+    .inline-section {
+        display: inline-block;
+        padding: 10px;
+        border: 1px solid black;
+        margin-right: 10px;
+        }
+    </style>
+</head>
+<body style="background-color: #181717ff;">
+    <h1 class="title"> All About Spencer and Andrew </h1>
+    <h2 class="plain-text">
+    This web page will be a hub of information that can be used to learn more about what we are both up to as well as be a hub for our socials
+    </h2> 
+    <h1 class="heading"><b><i> here is a silly meme to start :3 </i></b></h1>
+    <div class="center-img"><img src="https://preview.redd.it/qf9iw275ce1f1.jpeg?auto=webp&s=be5d9d011cb5e88eccda4fa18da4eb8d80cda58e"></div>
+
+<h1 class="heading"> Table of Contents</h1>
+<p class="list-format" href="#socials"> Socials </p>
+<p class="list-format" href="#interests"> Interests </p>
+<p class="list-format" href="#hobbies"> Hobbies </p>
+<p class="list-format" href="#memes"> Funny Memes </p>
+<hr>
+
+<h1 class="heading" id="socials"> Socials </h1>
+
+<head>
+<style>
+  .side-by-side {
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start;
+    gap: 0px; 
+  }
+
+</style>
+</head>
+<hr>
 <body>
-<h1>Spencer Buttereit and Andrew Conklin's Computer Science 100 Final Project</h1>
-<h2>This is a simple website made to tell the user about our interests and hobbies, list social media accounts, and to share some silly memes we enjoy.</h2>
-<img src="https://i1.sndcdn.com/artworks-zyYqA8D0BdfuyH28-WeeHrw-t1080x1080.jpg" alt="silly-cat">
+    <div class="side-by-side">
+        <div class="profile">
+            <h2 class="sub-heading">Spencer:</h2>
+            <ul class="sublist-formatL">
+            <li><a href="https://open.spotify.com/user/dwcp65edl6g0v4f5lpip10cg8?si=1307d7da58ff4bf3">Spotify: SnowlyFallen</a></li>
+            <li><a href="https://www.instagram.com/snowlyfallen?igsh=cnd2ODJkOTF3NHU2&utm_source=qr">Instagram: @snowlyfallen</a></li>
+            <li><a href="https://www.tiktok.com/@snowlyfallen?_r=1&_t=ZT-91qEIpQQ3ji">TikTok: @snowlyfallen</a></li>
+            <li>Discord: SnowlyFallen</li>
+            </ul>
+        </div>
+
+<div class="profile">
+        <h2 class="sub-heading">Andrew:</h2>
+        <ul class="sublist-formatR">
+        <li><a href="https://open.spotify.com/user/qlcyy259kowgtrgbwdglwl5gd?si=da6aafc8f4d64b74">Spotify: Anduwu Conklin</a></li>
+        <li><a href="https://www.instagram.com/aconklin_2007/">Instagram: @aconklin_2007</a></li>
+        <li><a href="https://www.tiktok.com/@lukkray_717">TikTok: @lukkray_717</a></li>
+        <li>Discord: lukkray_</li>
+        </ul>
+        </div>
+    </div>
 </body>
+
+<h1 class="heading" id="interests"> Interests </h1>
+<hr>
+<body>
+    <div class="side-by-side">
+        <div class="profile">
+            <h2 class="sub-heading">Spencer:</h2>
+            <ul class="sublist-formatL">
+           <li> Video games </li>
+           <li> Magic the gathering</li>
+           <li> Super Smash Brothers Ultimate Esports</li>
+           <li> Tennis</li>
+           <li> A.I.</li> 
+            </ul>
+        </div>
+
+<div class="profile">
+        <h2 class="sub-heading">Andrew:</h2>
+        <ul class="sublist-formatL">
+        <li> Music </li>
+        <ul> 
+            <li>J-pop</li>
+            <li>Pop Rock</li>
+            <li>90's Rock</li>
+        </ul>
+        <li> Videogames </li>
+        <ul>
+            <li>Sandbox</li>
+            <li>Friend Slop</li>
+            <li>Team shooters</li>
+        </ul>
+        <li>Ultimate Frisbee</li>
+        <li>Trading Card Games</li>
+        <li>Photography</li>
+        </ul>
+        </div>
+    </div>
+</body>
+
+<h1 class="heading" id="hobbies"> Hobbies</h1>
+<hr>
+<body>
+    <div class="side-by-side">
+        <div class="profile">
+            <h2 class="sub-heading">Spencer:</h2>
+            <ul class="sublist-formatL">
+            <li> coding </li>
+            <li>Playing (nearly) All videogames</li>
+            <li>Playing tennis</li>
+            <li>Coding</li>
+            <li>Voice Acting</li>
+            </ul>
+        </div>
+
+<div class="profile">
+        <h2 class="sub-heading">Andrew:</h2>
+        <ul class="sublist-formatL">
+            <li>Gym/Exercise</li>
+            <li>Magic: The Gathering</li>
+            <li>Pokemon TCG Collecting</li>
+            <li>Minecraft Building</li>
+            <li>Journaling</li>
+        </ul>
+        </div>
+    </div>
+</body>
+
+<h1 class="heading" id="hobbies"> Funny Memes</h1>
+<hr>
+<h2 class="sub-heading">Thank you for viewing our website, here are some funny memes we enjoy!</h2>
+<div class="image-row">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk2Y2c1bDUzMHUzc2FqaGh1b25yYjQ3bWN6dnFpZXpwYjR1bTl0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CZBQwMEOaBhpSHGSfj/giphy.gif"height=200 alt="my computer is going to fly">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ltdTA2N21uZnNlZ2l2OGVnM2RiY2Y2bXhndnV2bmd2eXRjcWloYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ybyhvz8pz3LbjR9BqC/giphy.gif" height=200 alt="wombo combo cat">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNwMWljb2NueWJjaDFrOWs5MTBodXRneGduZTRseTV3aDkwZGd5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e01tur62ZzJJ19zmU2/giphy.gif" height=200 alt="press any button">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1enpueDlpZ3JkMnpwbW05ZGMxMjhsaDJ6dmxhbmJpeDJ0OGFiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5fcgvH5zkpd5TOjzWI/giphy.gif" height=200 alt="many tabs">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN6MTR0MXlueDZydGxkNDFnc2FyYmJjZnRud2Jta29vbnZpaGk5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRfPDwbC1iNuGWtPQg/giphy.gif" height="200" alt="death penalty">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0ydHdyNHpsZjBlZGY5aTc5ZmRlYWl0a3dreHRhZnpjYnZpMWs5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/314xqnTk4MvEvdTik5/giphy.gif" height=200 alt="100000 bricks">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtzaGJkMTQxdXV5cGZpOG9sOW5kcWN3aThrMG5ydGN4b2Y5emQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkPrPGSYCvjPgmFfBK/giphy.gif" height=300 alt="cmere">
+<img src="https://media1.tenor.com/m/mPe_dMpYInoAAAAd/tucoemuitolegal-bee-movie.gif" height=250 alt="the bee movie">
+</div>
 </html>
